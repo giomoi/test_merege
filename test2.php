@@ -1,4 +1,5 @@
 <?php 
-echo 'Them file 2';
-echo 'Them dong so 2 vao day';
+echo 'Da thay doi dong nay';
+echo 'Them dong so 3 se giu lai dong nay';
+echo 'THem dong nua';
 ?>
