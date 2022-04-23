@@ -5,5 +5,6 @@ dòng không thay đổi
 Dòng thay đổi thêm (test 1)
  Ok tôi đã thay đổi (test 1)
  Tôi đã thêm 3 dòng (test 1)
-dòng sẽ thay đổi ở test 2
+OK đã thay đổi bởi test 2 rồi
+OK đã thay đổi bởi test 2.1 rồi
 dòng không thay đổi
