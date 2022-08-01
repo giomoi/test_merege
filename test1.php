@@ -9,4 +9,4 @@ OK đã thay đổi bởi test 2 rồi
 OK đã thay đổi bởi test 2.1 rồi
 Thêm dòng này trước khi revert
 dòng không thay đổi
-dòng không thay đổi
+Thay đổi 1
