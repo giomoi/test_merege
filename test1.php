@@ -7,6 +7,5 @@ Dòng thay đổi thêm (test 1)
  Tôi đã thêm 3 dòng (test 1)
 OK đã thay đổi bởi test 2 rồi
 OK đã thay đổi bởi test 2.1 rồi
-Thêm dòng này trước khi revert
-dòng không thay đổi
 Thay đổi 1
+dòng không thay đổi
